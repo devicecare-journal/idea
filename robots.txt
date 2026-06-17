@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://devicecare-journal.github.io/idea/sitemap.xml
